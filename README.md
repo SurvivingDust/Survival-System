@@ -24,6 +24,7 @@ A survival system built in Unreal Engine 5 using Blueprint Visual Scripting.
 - Blueprint Visual Scripting
 - UMG
 
-
+Watch the components working in action
+https://youtu.be/dJ3uJEF_niU
 
 Dustin Porter
